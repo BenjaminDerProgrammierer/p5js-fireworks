@@ -1,3 +1,6 @@
 export default {
-    base: '/p5-starter-ts'
+    base: '/p5js-fireworks',
+    build: {
+        outDir: 'docs'
+    }
 }
